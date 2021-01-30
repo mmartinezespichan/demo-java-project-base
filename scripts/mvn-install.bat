@@ -12,4 +12,4 @@ CALL D:\app-dev\configure-env.bat
 cd /D %CURRENT_APP_DIR%
 cd ..
 set MAVEN_BATCH_PAUSE=on
-mvn install -DskipTests=true -Djavax.net.debug=all
+mvn install
