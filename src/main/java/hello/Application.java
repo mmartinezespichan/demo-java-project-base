@@ -13,7 +13,7 @@ public class Application {
     public String home() {
         return "<html><boby>"
         		+ "<h2>Hello, World! from Trunkbase v.1.0</h2><br /><br /><br />"      
-        		+ "<img src=\"/hello.png\">"  		
+        		+ "<img src=\"/hello.jpg\">"  		
         		+ "</boby></html>";
     }
 
